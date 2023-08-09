@@ -2,15 +2,14 @@
 
 Hello, I'm [李宏鑫](), A Full-stack development:
 
-- 👨‍💼 I currently work in Shenzhen,China.
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 I currently learn English.
-- 📺 I currently continue to make some [videos]() about learning programming. 
-- 👯 I look for cooperation opportunities on [Upwork]().
+- 👨‍💼 I study in ChangChun,China.
+- 📺 I currently continue to make some [videos]() about learning programming.
+- - 📫 How to reach me: 2307792960@qq.com
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
